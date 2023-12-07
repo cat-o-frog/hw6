@@ -1,0 +1,118 @@
+.everything {
+    width: 1440px;
+    height: 944px;
+    background: #f9faff;
+  }
+  
+  .header {
+    width: 1440px;
+    height: 56px;
+    flex-shrink: 0;
+    color: #25282b;
+    font-family: Comfortaa;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 180%;
+    padding-bottom: 52px;
+    padding-left: 120px;
+  }
+  
+  .buttons {
+    padding-left: 640px;
+  }
+  .menu {
+    text-align: right;
+    margin-left: 48px;
+    margin-right: 48px;
+    padding: 5px;
+  
+    color: #25282B;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+    border: none;
+    background-color: #f9faff;
+    
+  }
+  
+  .menu:hover {
+    border-bottom: solid 2px #828282;
+  }
+  .about {
+    margin: 10px;
+    padding-left: 120px;
+  }
+  
+  .pic {
+    width: 325px;
+  text-align: left;
+    margin-right: 203px;
+  }
+  .about__header {
+    align-self: stretch;
+    color: #25282b;
+  
+    font-family: Playfair Display;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px;
+    padding-top: 105px;
+    padding-bottom: 32px;
+    
+  }
+  
+  .about__me {
+    align-self: stretch;
+    color: #828282;
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    padding-bottom: 32px;
+    width: 588px;
+  }
+  
+  .about__resume {
+    display: flex;
+    padding: 8px 24px;
+    align-items: flex-start;
+    border-radius: 8px;
+    background: #bdf259;
+    color: #25282b;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    border: none;
+  }
+  
+  .linkedin {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  
+  .links {
+    display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  padding-left: 624px;
+    padding-bottom: 80px;
+  }
+  
+  .copywrite {
+    color: #828282;
+  font-family: Nunito;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+  
